@@ -1,16 +1,26 @@
-### Hi there 👋
+<!-- Zero width character is used to put extra blank lines before and after code -->
 
-<!--
-**luffy1727/luffy1727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>
+    
+```python
+​
+import json
+from dataclasses import asdict, dataclass
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@dataclass
+class Stack:
+    languages   : tuple = ("Python", "PHP", "js")
+    databases   : tuple = ("MySQL", "Mongo", "Redis")
+    misc        : tuple = ("Docker", "Netflix Conductor", "AWS")
+    frameworks  : tuple = ("Django", "symfony")
+
+    def serialize(self):
+        return json.dumps(asdict(self), indent=4)
+
+
+stack = Stack()
+print(stack.serialize())
+​
+```
+</h3>
