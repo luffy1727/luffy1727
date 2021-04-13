@@ -13,7 +13,7 @@ class Stack:
     languages   : tuple = ("Python", "PHP", "js")
     databases   : tuple = ("MySQL", "Mongo", "Redis")
     misc        : tuple = ("Docker", "Netflix Conductor", "AWS")
-    frameworks  : tuple = ("Django", "symfony")
+    frameworks  : tuple = ("Django", "Symfony")
 
     def serialize(self):
         return json.dumps(asdict(self), indent=4)
