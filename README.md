@@ -11,9 +11,9 @@ from dataclasses import asdict, dataclass
 @dataclass
 class Stack:
     languages   : tuple = ("Python", "PHP", "JS")
-    databases   : tuple = ("MySQL", "Mongo", "Redis")
+    databases   : tuple = ("MySQL", "MongoDB", "Redis")
     misc        : tuple = ("Docker", "Netflix Conductor", "AWS")
-    frameworks  : tuple = ("Django", "Symfony")
+    frameworks  : tuple = ("Django", "Symfony", "Laravel")
 
     def serialize(self):
         return json.dumps(asdict(self), indent=4)
