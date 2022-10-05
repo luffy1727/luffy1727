@@ -10,9 +10,9 @@ Currently located in Malmö, Sweden.
 
 Connect me on Linkedin or even better send me an email:
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chintushig-ochirsukh-4a00a275/)
+[![Linkedin Badge](https://img.shields.io/badge/chintushig-ochirsukh-4a00a275?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chintushig-ochirsukh-4a00a275/)
 
-
+[![Gmail Badge](https://img.shields.io/badge/-tushig.tushig@gmail.com?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tushig.tushig@gmail.com)](mailto:tushig.tushig@gmail.com)
 
 <img align='right' src='https://luffy1727.github.io/tushig-rants/assets/whatever.gif' width='200"'>
 
