@@ -19,26 +19,10 @@ Or even better send me an email:
 <img align='right' src='https://luffy1727.github.io/tushig-rants/assets/whatever.gif' width='200"'>
 
 <h3>
-
-```python
-​
-import json
-from dataclasses import asdict, dataclass
-
-
-@dataclass
-class Stack:
-    languages   : tuple = ("Python", "PHP", "JS")
-    databases   : tuple = ("MySQL", "MongoDB", "Redis")
-    misc        : tuple = ("Docker", "Netflix Conductor", "AWS")
-    frameworks  : tuple = ("Django", "Symfony", "Laravel")
-
-    def serialize(self):
-        return json.dumps(asdict(self), indent=4)
-
-
-stack = Stack()
-print(stack.serialize())
-​
-```
+Skills:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/aws.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/react.png"></code>
 </h3>
