@@ -2,11 +2,17 @@
 
 <h2>Hey! This is @luffy1727!</h2>
 
-<p><em>Software Enginner at <a href="https://www.booztgroup.com">Boozt Fashion AB</a></br></em></p>
-
-<p><em>Currently located in Malmö, Sweden.</a></br></em></p>
+<p><em>Software Enginner at <a href="https://www.booztgroup.com">Boozt Fashion AB</a></br>
+Currently located in Malmö, Sweden.
+</em></p>
 
 > I'm a curious question asker who likes to build useful stuff.
+
+Connect me on Linkedin or even better send me an email:
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chintushig-ochirsukh-4a00a275/)
+
+
 
 <img align='right' src='https://luffy1727.github.io/tushig-rants/assets/whatever.gif' width='200"'>
 
