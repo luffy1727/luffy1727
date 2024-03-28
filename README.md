@@ -2,7 +2,7 @@
 
 <h2>Hey! This is @luffy1727!</h2>
 
-<p><em>Software Enginner at <a href="https://www.booztgroup.com">Boozt Fashion AB</a></br>
+<p><em>Senior web developer at <a href="https://www.booztgroup.com">Boozt Fashion AB</a></br>
 Currently located in Malmö, Sweden.
 </em></p>
 
