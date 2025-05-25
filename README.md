@@ -6,7 +6,7 @@
 Currently located in Malmö, Sweden.
 </em></p>
 
-> I'm a curious question asker who likes to build useful stuff.
+> As always. Move fast and break things
 
 Connect me on Linkedin: 
 
