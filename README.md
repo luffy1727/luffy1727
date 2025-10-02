@@ -2,7 +2,7 @@
 
 <h2>Hey! This is @luffy1727!</h2>
 
-<p><em>Software Engineer at <a href="https://neo4j.com">Neo4j GraphQL team</a></br>
+<p><em>Software Engineer at <a href="https://neo4j.com">Neo4j Dev Surface team</a></br>
 Currently located in Malmö, Sweden.
 </em></p>
 
