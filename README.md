@@ -8,11 +8,7 @@ Currently located in Malmö, Sweden.
 
 > As always. Move fast and break things
 
-Connect me on Linkedin: 
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chintushig-ochirsukh-4a00a275/)
-
-Or even better send me an email:
+if u want to send me an email:
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tushig.tushig@gmail.com)
 
