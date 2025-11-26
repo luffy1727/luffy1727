@@ -6,7 +6,7 @@
 Currently located in Malmö, Sweden.
 </em></p>
 
-> As always. Move fast and break things
+> break things, moving fast is optional
 
 if u want to send me an email:
 
