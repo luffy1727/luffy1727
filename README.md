@@ -3,14 +3,9 @@
 <h2>Hey! This is @luffy1727!</h2>
 
 <p><em>Software Engineer at <a href="https://neo4j.com">Neo4j Dev Surface team</a></br>
-Currently located in Malmö, Sweden.
 </em></p>
 
 > break things, moving fast is optional
-
-if u want to send me an email:
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tushig.tushig@gmail.com)
 
 <img align='right' src='https://luffy1727.github.io/tushig-rants/assets/whatever.gif' width='200"'>
 
